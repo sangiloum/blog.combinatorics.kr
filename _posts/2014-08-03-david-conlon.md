@@ -9,7 +9,7 @@ mathjax: true
 > 편집자주: 서울에서 열릴 [2014 세계수학자대회](http://icm2014.org/)(ICM)를 기념하여, 조합수학 분야의 기조강연자 및 초청강연자들을 소개하는 글을 준비하였습니다. 이번 글은 2014년 8월 15일 오후 3시에 강연할 옥스포드 대학 [데이비드 콘론(David Conlon) 교수](https://www.its.caltech.edu/~dconlon/)에 대해, 그의 첫 박사과정 지도학생인 [이준경](https://sites.google.com/site/joonkyungleemaths/) 학생이 소개하는 글을 싣습니다.
 
 <figure>
-<img src="/images/assets/conlon.jpg" alt="David Conlon"/>
+<img src="/assets/images/conlon.jpg" alt="David Conlon"/>
 <figcaption>David Conlon</figcaption>
 </figure>
 
